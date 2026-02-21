@@ -22,4 +22,5 @@ Check out the live site here: [The Shoe Company](#)
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/sajjadali-fullstack/footwear-ecommerce-ui.git
+
