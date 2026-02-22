@@ -1,31 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Shoes Company</title>
     <link rel="stylesheet" href="output.css">
 </head>
+
 <body class="bg-black">
     <!-- 
          MARK: Header
      -->
-    <header class="flex items-center justify-between px-12">
+         
+    <header class="flex items-center justify-between px-12 py-0 bg-fixed w-full max-w-[1440px] left-[50%] -translate-[50%]>
         <a href="#">
+            <!-- <img src="images/hero-background.png" alt="" srcset=""> -->
             <img class="w-32" src="images/shoeLogo.png" alt="">
             <p class="text-white text-xs md:text-sm -mt-8">The Shoes Company</p>
         </a>
         <!-- Navbar -->
-         <nav class=" text-white hidden md:block space-x-6 lg:space-x-9 lg:text-2xl font-bold">
-            <a href="#home">Home</a>
+        <nav class=" text-white hidden md:block space-x-6 lg:space-x-9 lg:text-2xl font-bold">
+            <a href="#hero">Home</a>
             <a href="#howItWorks">HowItWorks</a>
             <a href="#aboutUs">AboutUs</a>
             <a href="#testimonials">Testimonials</a>
             <a href="#contactUs">ContactUs</a>
-         </nav>
-         <button class="text-white text-5xl md:hidden">☰</button>
+        </nav>
+        <button class="text-white text-5xl md:hidden">☰</button>
     </header>
 
-    <section id="hero"></section>
+    <section id="hero" class="text-white bg-[url('images/hero-background.png')] bg-contain bg-no-repeat bg-right pt-36 px-12 max-w-[1440px] mx-auto">
+        <div class="flex items-center justify-between mx-w-6xl mx-auto">
+            <h1 class="uppercase text-6xl font-bold leading-[73px]">The <br> Shoes <br> Company</h1>
+            <div>
+                
+                <img class="w-[600px] "  src="images/hero-image.png" alt="shoe Image">
+        </div>
+        </div>
+        <div>
+        </div>
+    </section>
 </body>
+
 </html>
