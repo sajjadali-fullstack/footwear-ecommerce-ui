@@ -3,7 +3,7 @@
 A modern, responsive, and visually appealing e-commerce landing page for a footwear brand.
 
 ## 🚀 Live Demo
-Check out the live site here: [The Shoe Company](#)
+Check out the live site here: [The Shoe Company](https://sajjadali-fullstack.github.io/footwear-ecommerce-ui/)
 
 ## ✨ Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
