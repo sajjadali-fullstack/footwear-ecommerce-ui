@@ -12,12 +12,24 @@ Check out the live site here: [The Shoe Company](https://sajjadali-fullstack.git
 - **Interactive UI:** Smooth hover effects and navigation.
 - **Modern Styling:** Built with a focus on clean typography and high-quality imagery.
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, Tailwind
-- **Deployment:** #
+---
+
+- ## 🛠️ Built With
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="20"/> **Tailwind**
+- 
+  ---
+  
+  **Deployment:** #
+  
+---
 
 ## 📸 Screenshots
 **
+
+---
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
